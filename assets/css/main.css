@@ -2262,15 +2262,15 @@ input, select, textarea {
 				background-image: url("../../images/banner.jpg");
 */
 				background-color: #fff;
-				text-align: left;
-				font-size: 14pt;
+/*				text-align: center; */
+				font-size: 15pt;
 			}
 
 			#main > section.two {
 /*				background-color: #f5fafa; */
 				background-color: #fff;
 				font-size: 15pt;
-				margin:20pt;
+				margin:40pt;
 			}
 
 			#main > section.three {
