@@ -1,0 +1,38 @@
+---
+title: "answers.Rmd"
+author: "Batuhan"
+date: "7 6 2021"
+output: html_document
+---
+
+For the answers you have to look at the history
+
+reverted misspelling of name
+
+@pkopper
+pkopper committed on 26 May 2020
+
+assimilated styles
+
+@pkopper
+pkopper committed on 26 May 2020
+
+changed the authorship
+
+@pkopper
+pkopper committed on 26 May 2020
+
+I added a summary method in the file pamms
+
+@3Julia3
+3Julia3 committed on 26 May 2020
+
+remove example and doubled author
+
+@pkopper
+pkopper committed on 26 May 2020
+
+Created pem function for cr
+
+@pkopper
+pkopper committed on 26 May 2020
